@@ -1,4 +1,4 @@
-[![Slam](https://1.bp.blogspot.com/-Dw__wACAyE4/YPL3vti9mSI/AAAAAAAAA1I/0tAZ3IiE_iAMmg8rtiLlF_-3gXhGwYJgACLcBGAsYHQ/s0/Untitled%2Bdesign%2B%25287%2529.png)(https://t.me/mirrortube_bot)
+[![Mirror Tube](https://1.bp.blogspot.com/-Dw__wACAyE4/YPL3vti9mSI/AAAAAAAAA1I/0tAZ3IiE_iAMmg8rtiLlF_-3gXhGwYJgACLcBGAsYHQ/s0/Untitled%2Bdesign%2B%25287%2529.png)](https://t.me/mirrortube_bot)
 
 
 **Slam Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
