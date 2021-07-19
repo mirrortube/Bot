@@ -1,7 +1,7 @@
 [![Mirror Tube](https://1.bp.blogspot.com/-Dw__wACAyE4/YPL3vti9mSI/AAAAAAAAA1I/0tAZ3IiE_iAMmg8rtiLlF_-3gXhGwYJgACLcBGAsYHQ/s0/Untitled%2Bdesign%2B%25287%2529.png)](https://t.me/mirrortube_bot)
 
 
-**Slam Mirror Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
+**Mirror Tube Bot** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 
 # Features supported:
 <details>
@@ -139,7 +139,7 @@ Fill up rest of the fields. Meaning of each fields are discussed below:
 - **SUDO_USERS**: Fill user_id (not username) of you want to sudoers, Seprate them with space, Examples: ```0123456789 1122334455 6915401739``` (**NOTE**: If you want save sudo id permanent without database, you must fill your sudo id there).
 - **IS_TEAM_DRIVE**: Set to `True` if `GDRIVE_FOLDER_ID` is from a Team Drive else `False` or Leave it empty.
 - **USE_SERVICE_ACCOUNTS**: (Leave empty if unsure) Whether to use Service Accounts or not. For this to work see [Using Service Accounts](https://github.com/breakdowns/slam-mirrorbot#generate-service-accounts-what-is-service-account) section below.
-- **INDEX_URL**: Refer to https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index The URL should not have any trailing '/'
+- **INDEX_URL**: Refer to https://gdrive.mtb.workers.dev/0:/ The URL should not have any trailing '/'
 - **MEGA_API_KEY**: Mega.nz api key to mirror mega.nz links. Get it from [Mega SDK Page](https://mega.nz/sdk)
 - **MEGA_EMAIL_ID**: Your email id you used to sign up on mega.nz for using premium accounts (Leave th)
 - **MEGA_PASSWORD**: Your password for your mega.nz account
